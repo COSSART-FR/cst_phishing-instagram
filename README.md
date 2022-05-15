@@ -1,4 +1,4 @@
-# cst_pishing-instagram
+# cst_phishing-instagram
  Page de pishing Instagram
  
 educational purposes
